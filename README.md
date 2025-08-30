@@ -49,8 +49,6 @@ This repo documents my step-by-step progress – from **Python basics** all the 
 Python-Learning-Journey/
 
 │
-├── 📘 Notebooks/ # Jupyter Notebooks by topic
-
 │ ├── Python_Basics/
 
 │ ├── Functions/
