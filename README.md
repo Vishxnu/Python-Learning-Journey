@@ -1,7 +1,7 @@
 # 🐍 Python Learning Journey 🚀  
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white) 
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter) 
-![Status](https://img.shields.io/badge/Progress-70%25-brightgreen)  
+![Status](https://img.shields.io/badge/Progress-50%25-brightgreen)  
 
 Welcome to my **Python Learning Journey** repository!  
 This repo documents my step-by-step progress – from **Python basics** all the way to **advanced Data Science concepts**.  
